@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bussiness Card App</string>
+    <string name="full_name">Silverter Kristian Martin</string>
+    <string name="title">Student at Hasanuddin University</string>
+    <string name="phone_number">+62 822 920 027 63</string>
+    <string name="social_media">"@kristianmartinsilver"</string>
+    <string name="email">silverterkristian@gmail.com</string>
+</resources>
